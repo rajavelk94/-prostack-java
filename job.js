@@ -1,6 +1,6 @@
 class Test
 {
- public static void main(String[] args)
+ public static void main(String [] args)
  {
   String str="aaaccddbbbeeefff";
  Map<Character,Integer> map=new TreeMap<>();
@@ -19,3 +19,4 @@ else
 System.out.println(map);
 }
 }
+
