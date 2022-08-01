@@ -8,5 +8,5 @@ class Account {
         console.log("Constructor execute Automatically")
     }
 }
-module.exports = { min_Bal, Account, get_Details }  //ES5
+ module.exports = { min_Bal, Account, get_Details }  //ES5
 //export { min_Bal, Account, get_Details }   //ES6
