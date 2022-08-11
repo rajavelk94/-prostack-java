@@ -9,4 +9,5 @@ class Account {
     }
 }
 module.exports = min_Bal
+console.log(min_Bal)
 //export default min_Bal;  //ES6 Syntax
