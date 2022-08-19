@@ -1,11 +1,11 @@
 
 import React from 'react'
-import Login from './form/Login'
+import Form from './formvalid/Form'
 class App extends React.Component {
     
     render() {
         return <div>
-          <Login/>                    
+            <Form/>                 
     
         </div>
     }
